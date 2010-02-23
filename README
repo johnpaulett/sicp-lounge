@@ -1,0 +1,20 @@
+# sicp-lounge
+
+Personal solutions to the SICP problems in Clojure.  Part of the Lambda Lounge's SICP study group.
+
+http://sicpinclojure.com/
+http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html#%_toc_start
+http://github.com/dhess/sicp-solutions
+
+## Usage
+
+FIXME: write
+
+## Installation
+
+FIXME: write
+
+## License
+
+Copyright 2010 John Paulett (john -at- paulett.org)
+Licensed under New BSD License
